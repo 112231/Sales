@@ -1,0 +1,52 @@
+﻿<Window x:Class="Sales.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="売上管理" Height="550" Width="800" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" HorizontalAlignment="Left">
+            <ComboBox Margin="4" Width="60"/>
+            <TextBlock Margin="4" Text="年度"/>
+            <ComboBox Margin="4" Width="200"/>
+            <Button Margin="4" Content="読み込み"/>
+        </StackPanel>
+        <DataGrid Grid.Row="1" Margin="4" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn
+                    Width="60"
+                    Header="月"
+                    ElementStyle="{StaticResource CellStyle}"/>
+                <DataGridTextColumn
+                    Width="120*"
+                    Header="目標額"
+                    ElementStyle="{StaticResource CellStyle}"/>
+                <DataGridTextColumn
+                    Width="120*"
+                    Header="実績額"
+                    ElementStyle="{StaticResource CellStyle}"/>
+                <DataGridTextColumn
+                    Width="120*"
+                    Header="差額"
+                    ElementStyle="{StaticResource CellStyle}"/>
+                <DataGridTextColumn
+                    Width="120*"
+                    Header="差額累計"
+                    ElementStyle="{StaticResource CellStyle}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2">
+            <Button Content="一覧..." />
+            <Button Content="印刷..." />
+            <Button Content="インポート..." />
+            <Button Content="エクスポート..." />
+            <Button Content="閉じる" Click="Button_Click_1"/>
+            <TextBlock Width="32"/>
+            <Button Content="ヘルプ..."/>
+            <Button Content="バージョン情報..."/>
+        </StackPanel>
+    </Grid>
+</Window>

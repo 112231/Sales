@@ -1,0 +1,36 @@
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\bin\Debug\Sales.exe.config
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\bin\Debug\Sales.exe
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\bin\Debug\Sales.pdb
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\MainWindow.baml
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\MainWindow.g.cs
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\App.g.cs
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\Sales_MarkupCompile.cache
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\Sales.g.resources
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\Sales.exe
+c:\users\user01\documents\visual studio 2012\Projects\Sales\Sales\obj\Debug\Sales.pdb
+C:\Users\user01\Documents\Visual Studio 2012\Projects\Sales\Sales\obj\Debug\EditView.baml
+C:\Users\user01\Documents\Visual Studio 2012\Projects\Sales\Sales\obj\Debug\ListView.baml
+C:\Users\user01\Documents\Visual Studio 2012\Projects\Sales\Sales\obj\Debug\App.baml
+C:\Users\user01\Documents\Visual Studio 2012\Projects\Sales\Sales\obj\Debug\EditView.g.cs
+C:\Users\user01\Documents\Visual Studio 2012\Projects\Sales\Sales\obj\Debug\ListView.g.cs
+C:\Users\honka-1\Desktop\仮\Sales\Sales\bin\Debug\Sales.exe.config
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\Sales.exe
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\Sales.pdb
+C:\Users\honka-1\Desktop\仮\Sales\Sales\bin\Debug\Sales.exe
+C:\Users\honka-1\Desktop\仮\Sales\Sales\bin\Debug\Sales.pdb
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\EditView.baml
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\ListView.baml
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\MainWindow.baml
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\App.baml
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\EditView.g.cs
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\ListView.g.cs
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\MainWindow.g.cs
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\App.g.cs
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\Sales_MarkupCompile.cache
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\Sales.g.resources
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+C:\Users\honka-1\Desktop\仮\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
